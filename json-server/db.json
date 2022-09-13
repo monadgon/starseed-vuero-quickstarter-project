@@ -1,4 +1,18 @@
 {
+  "articles": [
+    {
+      "id": 1,
+      "slug": "my-first-post",
+      "title": "My First Post",
+      "content": "This is my first post!"
+    },
+    {
+      "id": 2,
+      "slug": "my-pretty-blog",
+      "title": "My pretty blog",
+      "content": "Vue.js is awesome!"
+    }
+  ],
   "conversations": [
     {
       "id": 1,
